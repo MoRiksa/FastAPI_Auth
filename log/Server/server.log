@@ -1,0 +1,320 @@
+[2025-01-16 08:23:37,533] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:23:37,534] ERROR - Error: 14 validation errors for respondMenu
+data -> 0 -> id_kategori
+  field required (type=value_error.missing)
+data -> 0 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 1 -> id_kategori
+  field required (type=value_error.missing)
+data -> 1 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 2 -> id_kategori
+  field required (type=value_error.missing)
+data -> 2 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 3 -> id_kategori
+  field required (type=value_error.missing)
+data -> 3 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 4 -> id_kategori
+  field required (type=value_error.missing)
+data -> 4 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 5 -> id_kategori
+  field required (type=value_error.missing)
+data -> 5 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 6 -> id_kategori
+  field required (type=value_error.missing)
+data -> 6 -> nama_kategori
+  field required (type=value_error.missing)
+[2025-01-16 08:24:38,011] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:24:38,012] ERROR - Error: 14 validation errors for respondMenu
+data -> 0 -> id_kategori
+  field required (type=value_error.missing)
+data -> 0 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 1 -> id_kategori
+  field required (type=value_error.missing)
+data -> 1 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 2 -> id_kategori
+  field required (type=value_error.missing)
+data -> 2 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 3 -> id_kategori
+  field required (type=value_error.missing)
+data -> 3 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 4 -> id_kategori
+  field required (type=value_error.missing)
+data -> 4 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 5 -> id_kategori
+  field required (type=value_error.missing)
+data -> 5 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 6 -> id_kategori
+  field required (type=value_error.missing)
+data -> 6 -> nama_kategori
+  field required (type=value_error.missing)
+[2025-01-16 08:29:01,519] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:29:01,520] ERROR - Error: 14 validation errors for respondMenu
+data -> 0 -> id_kategori
+  field required (type=value_error.missing)
+data -> 0 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 1 -> id_kategori
+  field required (type=value_error.missing)
+data -> 1 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 2 -> id_kategori
+  field required (type=value_error.missing)
+data -> 2 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 3 -> id_kategori
+  field required (type=value_error.missing)
+data -> 3 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 4 -> id_kategori
+  field required (type=value_error.missing)
+data -> 4 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 5 -> id_kategori
+  field required (type=value_error.missing)
+data -> 5 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 6 -> id_kategori
+  field required (type=value_error.missing)
+data -> 6 -> nama_kategori
+  field required (type=value_error.missing)
+[2025-01-16 08:30:38,426] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:30:38,426] ERROR - Error: 14 validation errors for respondMenu
+data -> 0 -> id_kategori
+  field required (type=value_error.missing)
+data -> 0 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 1 -> id_kategori
+  field required (type=value_error.missing)
+data -> 1 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 2 -> id_kategori
+  field required (type=value_error.missing)
+data -> 2 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 3 -> id_kategori
+  field required (type=value_error.missing)
+data -> 3 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 4 -> id_kategori
+  field required (type=value_error.missing)
+data -> 4 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 5 -> id_kategori
+  field required (type=value_error.missing)
+data -> 5 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 6 -> id_kategori
+  field required (type=value_error.missing)
+data -> 6 -> nama_kategori
+  field required (type=value_error.missing)
+[2025-01-16 08:31:04,736] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:31:04,736] ERROR - Error: 14 validation errors for respondMenu
+data -> 0 -> id_kategori
+  field required (type=value_error.missing)
+data -> 0 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 1 -> id_kategori
+  field required (type=value_error.missing)
+data -> 1 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 2 -> id_kategori
+  field required (type=value_error.missing)
+data -> 2 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 3 -> id_kategori
+  field required (type=value_error.missing)
+data -> 3 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 4 -> id_kategori
+  field required (type=value_error.missing)
+data -> 4 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 5 -> id_kategori
+  field required (type=value_error.missing)
+data -> 5 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 6 -> id_kategori
+  field required (type=value_error.missing)
+data -> 6 -> nama_kategori
+  field required (type=value_error.missing)
+[2025-01-16 08:37:21,608] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:37:21,608] ERROR - Error: 9 validation errors for respondMenu
+data -> 0 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+data -> 0 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 1 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+data -> 1 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 2 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 3 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 4 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 5 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 6 -> nama_kategori
+  field required (type=value_error.missing)
+[2025-01-16 08:39:12,624] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:39:12,625] ERROR - Error: 9 validation errors for respondMenu
+data -> 0 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+data -> 0 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 1 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+data -> 1 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 2 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 3 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 4 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 5 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 6 -> nama_kategori
+  field required (type=value_error.missing)
+[2025-01-16 08:43:04,873] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:43:04,873] ERROR - Error: 9 validation errors for respondMenu
+data -> 0 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+data -> 0 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 1 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+data -> 1 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 2 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 3 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 4 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 5 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 6 -> nama_kategori
+  field required (type=value_error.missing)
+[2025-01-16 08:43:12,302] INFO - Menampilkan Daftar Menu dengan Kategori [{'id_menu': '5', 'nama_menu': 'Xtra JOSS', 'harga': 5000.0, 'id_kategori': 1, 'nama_kategori': 'Minuman'}, {'id_menu': '6', 'nama_menu': 'Kopilah', 'harga': 15000.0, 'id_kategori': 1, 'nama_kategori': 'Minuman'}, {'id_menu': '7', 'nama_menu': 'Kopikap', 'harga': 1500.0, 'id_kategori': 1, 'nama_kategori': 'Minuman'}, {'id_menu': '1343', 'nama_menu': 'pizza', 'harga': 313131.0, 'id_kategori': 2, 'nama_kategori': 'Makanan'}, {'id_menu': '2', 'nama_menu': 'Kopi', 'harga': 3000.0, 'id_kategori': 2, 'nama_kategori': 'Makanan'}]
+[2025-01-16 08:47:27,123] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:47:27,124] ERROR - Error: 9 validation errors for respondMenu
+data -> 0 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+data -> 0 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 1 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+data -> 1 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 2 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 3 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 4 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 5 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 6 -> nama_kategori
+  field required (type=value_error.missing)
+[2025-01-16 08:47:58,411] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:47:58,412] ERROR - Error: 9 validation errors for respondMenu
+data -> 0 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+data -> 0 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 1 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+data -> 1 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 2 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 3 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 4 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 5 -> nama_kategori
+  field required (type=value_error.missing)
+data -> 6 -> nama_kategori
+  field required (type=value_error.missing)
+[2025-01-16 08:49:17,958] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:49:17,959] ERROR - Error: 2 validation errors for respondSingleMenu
+data -> 0 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+data -> 1 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+[2025-01-16 08:49:22,681] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:49:22,681] ERROR - Error: 2 validation errors for respondSingleMenu
+data -> 0 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+data -> 1 -> id_kategori
+  none is not an allowed value (type=type_error.none.not_allowed)
+[2025-01-16 08:50:22,035] INFO - Menampilkan Daftar Menu
+[2025-01-16 08:56:05,633] INFO - Menu berhasil ditambahkan dengan data yang dikirim id_menu='332' nama_menu='Kopiko' harga=500.0 id_kategori=2
+[2025-01-16 08:56:20,795] ERROR - Error: 404: Menu Tidak Ada
+[2025-01-16 08:56:26,431] INFO - Menampilkan Menu dengan nama Kopiko berhasil
+[2025-01-16 09:28:14,028] INFO - Membuat Token JWT // eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJTWmtha0w5em1Eb1ZwT1IyYVNYNUhud3VqaW9HZWNVME5fSGN6amJsYXA0PSIsImlhdCI6MTczNjk5NDQ5MywibmJmIjoxNzM2OTk0NDkzLCJqdGkiOiJiOGYxNDAwZi05ZjMxLTQ3YjQtOGJjMy1kYjk4MjAwNDE5NTciLCJleHAiOjE3MzcwODA4OTMsInR5cGUiOiJhY2Nlc3MiLCJmcmVzaCI6ZmFsc2V9.oCkYRzVTGn-0imWHa4HqkGYT9gaIaH4C7mwh8XskQGwPl3vpON8NbBwL-qtKmZWsTX3qSrOeJgzj24sJsthtNWXLybmd6gE3ntPWefGPMeVdmNqt859RlItKWnvJq2d2I-PdZWFPdO9tLysxrH8ODFF8tFgd0wRICpsrU0HVnIng-1liveU_K1IbAjwguCBJ5zTWHckuGEM3Ud1JaZWlIZxmnzNz7TwSgRaWx3Wcz98CPuBHTGnbIe-nWmWz3nOortNajoxXH2UVLmu-isaqAzRUAfsEQRQNwzZoLm1ZlSE5LvntTjFHOVQpHR6H5AjS6-7l_W1leUZNzUN8cwEFLIp0BVIHxh-jhguKI-Ai_g8JaMhOZIVIpKWyijlC4wkNiNxp0eoLonjkciUKcSG_ODQJSismP1TFs23aUoygpUo52dJRkbdMARtsN4xWtGCvX8LaUdCgA96o9yzvOpcpmA8Ws2b-GRbP-SgI2ITNhQy6qJguFGx1sgGVflCV9gHjncu1XD9bu2rZFTrWtr5jtvTGoX8iRcrizRqRoZ93tyXUXmi-kPuj4TLFVo6_BMo8V6-vkSIBGzRoBTIiZNlCn8YR4CibFcoIZmEtKAORHNoSdEzv1JPnawNtE6JmtkbWBaOL4UT20TxQsHPdDPClaqHLcbjiMYrbAcxCFAPHXYU //
+[2025-01-16 09:32:34,128] INFO - Generate IV // Yjc1NzNhMmM2NGY0NmFhYzFjNmFjZTM2ZTM5MzI4Njg= //
+[2025-01-16 09:34:23,534] INFO - Generate Client ID // a8e450af115bf2ae611f4e098e546688 //
+[2025-01-16 09:34:23,534] INFO - Generate Secret Key // 9be59ea62c12230a696a4aef9c2399dbfabaecfa7f17336da93a14a9ff93ce13 //
+[2025-01-16 09:34:35,140] INFO - Generate IV // ODc1NzljZjRlZjQ1ODk5OWM5ZmZhNThkZTM1ZDRmMzU= //
+[2025-01-16 09:34:35,140] INFO - Generate IV HEX // 87579cf4ef458999c9ffa58de35d4f35 //
+[2025-01-16 09:34:37,041] INFO - Generate IV // MmE1ZGE3Y2M5Y2Y0NGJjZWVlMjU2NzQzODBmMmQxZDM= //
+[2025-01-16 09:34:37,042] INFO - Generate IV HEX // 2a5da7cc9cf44bceee25674380f2d1d3 //
+[2025-01-16 09:42:05,251] INFO - Membuat Token JWT // eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJTWmtha0w5em1Eb1ZwT1IyYVNYNUhud3VqaW9HZWNVME5fSGN6amJsYXA0PSIsImlhdCI6MTczNjk5NTMyNSwibmJmIjoxNzM2OTk1MzI1LCJqdGkiOiI5MmU5MWM3Yy0xODQxLTQ1MzktYjViNi0zYjY2NGVmMjg5ZWMiLCJleHAiOjE3MzcwODE3MjUsInR5cGUiOiJhY2Nlc3MiLCJmcmVzaCI6ZmFsc2V9.EJC67j2Fmm35RQMH2e6knmZJTDHmF5JXeARVK56ukHaLoyCvIouUh4aLbBhVpwm3Ju4MQILakg0-mG8c0PKgWhh48AqDJU-pAYccqvZ896mBk00YGfCn9z_0LBkXTSzQ04KdaUXuoTlZerGxO__j_1FUyWcZI3AtlosstjuiA2Xi9Cy5m_L2wrD9XnTKNNq4XBD9yYS98KxGEr0FhbKtYplGcUUBPTEswPtNjHZg5cCLXY2-yd5_EX5qqffFL7uWUUBf_zG34omawhT-jhelygoLBkAw5-77LKPDJpnOqBu3cNMvHyxQjhan83WMfT7zhg9g2tecEU4KBpwGJeeUpJ0yHBuKcYLiTjU1W9uy9TgM_WbpLNGldbcG9w5GjmBvqsrdquFVAzs3oH1BoBmQKEAXLt5w8PuSKlbJE1RSn-BkppBMcsxZxinxu-UN1zwU-Vc1_cE98TArMBZtwghGt2UWfUYUxZOn0C3JiKUxUCgJt4n0RQyrSRVetgVU4dghMe0X-Gu95OuaWlmjkDZPLkQEspONMpmLF1qBPtA_3UQkySpav6Mysw80YVfK_QLU2UAd7Zh1oCxK8xo19Xw7rt8rGgEE9IKDzinnn8PHDR1dTxTVBaH6rvHCezQbvzQKpRTpfxUyYfApgzNXsgu3bq0HVosq4amYyawA5-auwt4 //
+[2025-01-16 10:14:21,503] INFO - Membuat Token JWT // eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJTWmtha0w5em1Eb1ZwT1IyYVNYNUhud3VqaW9HZWNVME5fSGN6amJsYXA0PSIsImlhdCI6MTczNjk5NzI2MSwibmJmIjoxNzM2OTk3MjYxLCJqdGkiOiI4ZGQ4M2MzNi1lZGFlLTQ2NTItODc4OS1hMWI4Mjk4MTI4OGEiLCJleHAiOjE3MzcwODM2NjEsInR5cGUiOiJhY2Nlc3MiLCJmcmVzaCI6ZmFsc2V9.ufqebcNxRw3DN9yyLoCu8JRED65JpPQ_gFnGtnMSdIHzRndq6t4tFhcInMTotJ5t4IYYFK6AxpWj7D4HosKLVpSaT85dlUBZswhVz99iBVE4FwYgcJ1JbdB741Rd30jQMaaBbacJlTKztfby32goGJlDuNTA7YvXoomGAqpU5BBIZtMV4NCoH-57AHLrvLi1VHe1m_gn8l3QePyJu1xEEbld1VFLf2CcKYhZv4_I3dTsJoHutjhGVzMrEZDXUsx5FJg93K98a3zdilo5N2EvDwFMh346mgZudEJ0KvjN6RVP2ZbgEjpxm7Gu0eEm37GZJFiJw5keWV81wuXkDSDJGHoi8zBQwo_qA5g04KtZSG8NyNRgzMarpnjfTqkAhMJiSXIOpbyZmAbsVgqkcmoJ285NuX22fW3b1o6DD_vOn6HAjNrw_9-Cu8QH9E_E-9ZvTW_Qw174e_vWXk-milsvhsOrELbj1b9KLZRD03Dr-cDzx3sNprSS5O_kFR2drVnGBA6Uxh2KVOIeWMwng7fohDOPKQLltz4vVVJ5hYlhJ8w6ISL0EJSnXsHBJNlgVKkB_U8_Nr61-lbNYxtdlN91yc29_-603ZC6nd36Q5jAmxl7pyBlfFPWADdi7cwTBdZMHjgfFaDncfNmnrleX-oH7jRIqSGEPa7g8aQCJ5dMvtQ //
+[2025-01-16 10:34:59,670] INFO - Membuat Token JWT // eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJTWmtha0w5em1Eb1ZwT1IyYVNYNUhud3VqaW9HZWNVME5fSGN6amJsYXA0PSIsImlhdCI6MTczNjk5ODQ5OSwibmJmIjoxNzM2OTk4NDk5LCJqdGkiOiI2MzI4MzUzMC1mNjc4LTRkZTAtOGQ4OC00NzUzNmY2NTYzM2MiLCJleHAiOjE3MzcwODQ4OTksInR5cGUiOiJhY2Nlc3MiLCJmcmVzaCI6ZmFsc2V9.rkjs3JYrXKyqgHyOhAd54hhL-l07N3IFBGFnoG4a_J5xqFcTuIJVdeiP01CxeYPZq5Ua1TEMgux8zka03qqxTIkRXhLEM_BNO-8iyhDOrH-loApbwLLyEU2grZ-25omt9yYUlSxtwZGY8nzvmAPRlYZGA5nnkwzwThst-cxCS0dNZ1fIdWj7qVe0MgXba5O-OcL67UMN2t-liU3iBkbSjNu6S92FW1IECGL8BUcEr55sQmeRQ5MAHQje_UGpMxCS-knctiKVa2wSHYvm0-XzPqSvi8uZsLij_t1GTNi3tx0JM2TE0hcZ5J941mxgjORO0INFjMb-JJJO-lZUbdaDRdufxJFTsUMbvG8eMYJhiRfBr3FdsFbamMwKziVjJwzkRoaccTz3CdCEqKneoVuTzMWLs5cdff6yCAKAB7NhsVzWJYUiC_oqucEP3AYlLTeBAckzrnhYQoT6yutHw33vN5i-MlTJ3qe_NvUedDyZZJQ0v4gx1blArvNhTGIB0hZ5k-pG6Sqt4ZY3mGAg7ZBKPhBOZyH3IE3hwPHpq_Eqo0rEBvBdR-mhIINwKXVohoE_wcvpey6oLAE5o9gR5B4bUy-0Hyf_pvos4VZ1V1KYbp6gxcIR3LAg8B-ZIixMuBxui7Ez8jjxXjAdZ_7I-FAyIQgz4eidVKJPoJClbAShsWQ //
+[2025-01-16 10:35:05,558] INFO - Membuat Token JWT // eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJTWmtha0w5em1Eb1ZwT1IyYVNYNUhud3VqaW9HZWNVME5fSGN6amJsYXA0PSIsImlhdCI6MTczNjk5ODUwNSwibmJmIjoxNzM2OTk4NTA1LCJqdGkiOiJhOTgyMWYzYS00MTI5LTRiZDMtYjA4Zi0yMGZhODc2YWE5ZjYiLCJleHAiOjE3MzcwODQ5MDUsInR5cGUiOiJhY2Nlc3MiLCJmcmVzaCI6ZmFsc2V9.dAblYPN-DrX-fJSPH0oJMZoI_TCzlZon6r9v55Cd-k8kwltyN0K-kJUtD4pnwE8Hvtbv1Jrbh_f7FPLnQf57Nd2-SOYiZZe5YRGJznvnJJU6uajXmI5Cwuu46UQfRWDGecqnjqGVeA5QJfA-NLGCkDz_xZ5hbRTdAJ7rA84cXGMTH9yTwgUAkRa4cSJ2rTYnWRiwgVL4tlbehvqCGeKk6A6LOTGUCXKfG-TvZRZlaZ3fLMISC4LPuvrG6xYQBh1yzz0xp9RiOipR-w6cBfxKJOnSXA676oRqR8crJM4KhscpTO10HFK6pBnHkMPxQJto8LDx39CaU_KWsZ1ABV6NDuJs-Agm6KVB6iTG00jHWuQJ3Nf_io-bgw0X64HJlyq9hu1iWf8GVWtfrFM-9LG4iXtxn1aCcmDgzBHQPcmVgq9js8_wy-ZP8Q6eKUeLuJVet3CfltqZmWVTfqD7fwPvXB3HKuE4Bx_yPwe7HIo-1bigqplJdk_gGoPe96Heg0SQ2djEuxfxj3sy8kW8dKgOnnfSbFAma2exFoLiSHjRmf8sc9jv7sKoeM4xuXwYNikft1cfKh_MWodrQ0vdDXciRvjYM-87Xl9UyPczW5z3MfmBwpCqPezXp0uH03mFidLFnBa1UVDbV4TnQ2Zl1jBNP54fy8_U45_OKaHj4xZTmds //
+[2025-01-16 10:54:54,641] INFO - Generate IV // ZWE0NWNiZWZiNzhlYTA0OGE2ZTE5YTA1MDE2ZTkxMzM= //
+[2025-01-16 10:54:54,641] INFO - Generate IV HEX // ea45cbefb78ea048a6e19a05016e9133 //
+[2025-01-16 10:55:27,394] INFO - Generate Client ID // bd4dfde6f2477e10c97a810aad0d6ca6 //
+[2025-01-16 10:55:27,394] INFO - Generate Secret Key // 35cf6f5581934e7e39b60474cd14a3ba2f93479ec5690eb799887e39738ab245 //
+[2025-01-16 10:55:28,352] INFO - Generate Client ID // d2197106719fe22416def4dff4ba5db0 //
+[2025-01-16 10:55:28,352] INFO - Generate Secret Key // a14488f73e8778324db6fa9103e0256f958be3d7c6dcb4fbfec4e8e38a07bec4 //
+[2025-01-16 11:19:12,601] INFO - AES KEY // 466497865d6d9cbc15200f145ba8051102897cb1132520d7155344c4c33f681a //
+[2025-01-16 11:19:12,601] INFO - AES IV // 8513529dde677694c4412ecddf57c6de //
+[2025-01-16 11:19:13,792] INFO - AES KEY // e67cc13c8c8667be7cff75424ff5379333e6bfb9e8482bcf5dfeb738397d55c8 //
+[2025-01-16 11:19:13,792] INFO - AES IV // d67adc1a93babfb2435d15acaf89e922 //
+[2025-01-16 11:20:22,128] ERROR - Error membuat token: non-hexadecimal number found in fromhex() arg at position 0
+[2025-01-16 11:20:23,176] ERROR - Error membuat token: non-hexadecimal number found in fromhex() arg at position 0
+[2025-01-16 11:21:53,280] ERROR - Error membuat token: non-hexadecimal number found in fromhex() arg at position 0
+[2025-01-16 11:21:54,359] ERROR - Error membuat token: non-hexadecimal number found in fromhex() arg at position 0
+[2025-01-16 11:32:35,182] ERROR - Error membuat token: non-hexadecimal number found in fromhex() arg at position 0
+2025-01-16 11:33:39,298 - ERROR - Encryption error: Invalid IV size (12) for CBC.
+2025-01-16 11:33:39,298 - ERROR - Encryption endpoint error: 500: Encryption failed
+2025-01-16 11:33:40,325 - ERROR - Encryption error: Invalid IV size (12) for CBC.
+2025-01-16 11:33:40,325 - ERROR - Encryption endpoint error: 500: Encryption failed
+2025-01-16 11:34:43,651 - ERROR - Encryption error: Invalid IV size (12) for CBC.
+2025-01-16 11:34:43,651 - ERROR - Encryption endpoint error: 500: Encryption failed
+2025-01-16 11:34:44,672 - ERROR - Encryption error: Invalid IV size (12) for CBC.
+2025-01-16 11:34:44,672 - ERROR - Encryption endpoint error: 500: Encryption failed
+[2025-01-16 11:44:07,318] ERROR - Error membuat token: Error in create_token: 'SafeConfig' object has no attribute 'validate_client'
+[2025-01-16 11:44:08,444] ERROR - Error membuat token: Error in create_token: 'SafeConfig' object has no attribute 'validate_client'
+[2025-01-16 11:44:27,285] INFO - AES KEY // d2bd07373d276d9d2512860eec1e4caa0ef23464f9d490fa8fb8f797625f9f55 //
+[2025-01-16 11:44:27,285] INFO - AES IV // f798c7f10e4c8ff0c9f039ea792d2cae //
+[2025-01-16 11:44:28,314] INFO - AES KEY // 893a5bcf869737f58be9259e6083259c65367d860c9f17e5a9e4cea600e95579 //
+[2025-01-16 11:44:28,314] INFO - AES IV // c594ec9037c55fc0cdb66c370b525b97 //
+[2025-01-16 11:44:35,006] INFO - Generate Client ID // b00a115b922cdcd9c4fcaa056ddb60c5 //
+[2025-01-16 11:44:35,007] INFO - Generate Secret Key // 1b933458bf230cfe4477ffb1cdedd283c0c0941be4a88fc51cb1584c0e9a1820 //
+[2025-01-16 11:44:36,606] INFO - Generate Client ID // 841e3cb649903a0d5a3e1c1d1d4cbaeb //
+[2025-01-16 11:44:36,606] INFO - Generate Secret Key // 233cdf91b597fdc8f9d3025cb2e3301b6145461775ec94e71e65013de4ce8b34 //
+[2025-01-16 11:45:26,071] ERROR - Error membuat token: Error in create_token: 'SafeConfig' object has no attribute 'validate_client'
+[2025-01-16 11:45:27,057] ERROR - Error membuat token: Error in create_token: 'SafeConfig' object has no attribute 'validate_client'
+[2025-01-16 11:48:33,345] INFO - Token berhasil dibuat: eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJzdHJpbmciLCJpYXQiOjE3MzcwMDI5MTMsIm5iZiI6MTczNzAwMjkxMywianRpIjoiZDg1OWY1ZjgtYTMxNi00MmJjLWFmZGMtZWJhOWQ2YjM5YTM3IiwiZXhwIjoxNzM3MDAzODEzLCJ0eXBlIjoiYWNjZXNzIiwiZnJlc2giOmZhbHNlfQ.BaiZyd-NLTNabe5OLNsdzF4rKSvqm_fqOLY2FUtx0Fbc15QdPnXRaXc93VQTX_38VjDUN79xrIluPAOJ4G47KHBY1GRCkwW9plzvO7VBRDqYj5NBcTw14OSTe2nOezT9TtruQQm-qmIISVIhi1aYSBun7oMGn0bxt8hQ392tOSd8AgkEJfx2hxophUQRVyMs0cK8dtsGnwk2Hm-bKIVTVinxtiDoss9p61ypcApI-qHkIoXPKex6ZEjSYnSpFYQnveuGiKg3divIOfMp0krDIcb-6BigHcfWBHCTjZgClReV0j4-Tt25q0YzehVhvLH58Qh6xrTX9ESVDXyKX6JS0X7qjQizboiGwHiJvu1e08-jtqw4a698R8aJhgVv9bYYzV1XMqMU6n5ZsQs_gM7NOYnnoS55BlfMcMf2HlZC-hTLLlatu2xFM3lIioGvaI_9K0EZdAieD7KBz5JYyns5Zq01W4OevZMznZVGk0J2Hg9rzrmH3yy7w_bUbNR7vExwC80MY7FxuYB0gO0VNY-vCTr4ec3MsAf0LZlbe8iCoT0E8mFiD2aNZ1-cKoPn_qwPgz5ivcwsKY0lbPg3Z2MSDoaXXFqw1TnkqwQdp9eByNz_wOcgOBMQ6h09MCC39Xk_Y9U3FWhgrC0Ibchj8-KYIRk95dQbCB94siqqh5_fkpM
+[2025-01-16 11:48:37,299] INFO - Token berhasil dibuat: eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJzdHJpbmciLCJpYXQiOjE3MzcwMDI5MTcsIm5iZiI6MTczNzAwMjkxNywianRpIjoiMmM2ZTEyNTktYWVmZC00MWVjLTgyZWQtNjk0Mzg4NDU4Zjc5IiwiZXhwIjoxNzM3MDAzODE3LCJ0eXBlIjoiYWNjZXNzIiwiZnJlc2giOmZhbHNlfQ.qC1p4WPWIpIEG2m7dxOnL8lGo5i2Z_WSsktP8SgV-_Eq-ArSmiaYLLkXyPo6lbXgqPGkVaAT_MTlqdxzXHU0iUGmaRUEyZsFFYOB1Or0ok2GmgMknLziW5m_FsbrguqDHtR20emfRjcE3rgQtS0jk-51VYNlkmCUYMOmsPz04aTHodM2R7IAVrZZK96dpfM-hCodvEUb9msdCqU7DHVyWncjIH8_e3ubAsyYMnWNCGRk8MufGLSRnBgMnHrt9vg98YNxrzM6aKpOHGXsrUviIt1k8xwzgv0V-mvULSG32z6snxp-rikhp4S6EtGoEJXdTLxCWYIeFW1VI0egFhObODlV1TjlbU6Rlvfm3jVdst4szJQrEHT2k6J4vt4jHKfVlaMaar-ggvrvcjE1wG99QLq49C0sUZSxpMjU6IYIBynHzVWjeiLmZ5MvPi8IBVriJqcdXWYbezdAsGAxxbxXUCXU5-lwh6mU0UbKQJagMOf2SAP_RaJ3I6uJ7Lnz5E8Rv5LE99kb4SCvYFoollnBMY224jJwhc3S9581ru7wmvjKkcobzfHcO2iA4UfXEvWG7ZE755NL-vO6kUAaiAg25P8WxYyF3h8uGemhMdPgs-w97CW3ohdVucAvkfJjm725d6fNEyz3hQXSFjujZyRKXBhTVgfZ6OkUUKJ9P1o5ZlM
+[2025-01-16 11:49:09,709] INFO - AES KEY // efdd39782bbd9f1158b7b288c8d01c9ef9af82514cf2aa2913242c53769f4815 //
+[2025-01-16 11:49:09,709] INFO - AES IV // 7e58d0bf7e050006255eb031f9c9ef04 //
+[2025-01-16 11:49:11,051] INFO - AES KEY // 1303a664822d0e71d50b2ada2d13b5ad06d9759ea3475558a8be368c47ddd63b //
+[2025-01-16 11:49:11,051] INFO - AES IV // 2649035c75e5270e30868a0705e6dd69 //

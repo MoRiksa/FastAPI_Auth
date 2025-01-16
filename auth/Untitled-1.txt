@@ -1,0 +1,12 @@
+class SettingsJWT(BaseModel):
+    authjwt_secret_key: str = tokenConfig.SECRET_KEY
+    authjwt_algorithm: str = "RS256"
+    authjwt_public_key: str = tokenConfig.PUBLIC_KEY
+    authjwt_private_key: str = tokenConfig.PRIVATE_KEY
+    authjwt_token_location: list = ["headers"]
+    authjwt_access_token_expires: int = timedelta(
+        minutes=tokenConfig.ACCESS_TOKEN_EXPIRE_MINUTES
+    )
+    authjwt_refresh_token_expires: int = timedelta(days=30)
+    authjwt_cookie_csrf_protect: bool = True
+    authjwt_cookie_samesite: str = "lax"
