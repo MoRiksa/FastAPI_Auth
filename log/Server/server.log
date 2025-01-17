@@ -318,3 +318,20 @@ data -> 1 -> id_kategori
 [2025-01-16 11:49:09,709] INFO - AES IV // 7e58d0bf7e050006255eb031f9c9ef04 //
 [2025-01-16 11:49:11,051] INFO - AES KEY // 1303a664822d0e71d50b2ada2d13b5ad06d9759ea3475558a8be368c47ddd63b //
 [2025-01-16 11:49:11,051] INFO - AES IV // 2649035c75e5270e30868a0705e6dd69 //
+[2025-01-16 13:02:36,341] INFO - Menampilkan Daftar Menu
+[2025-01-16 13:02:38,695] INFO - Menampilkan Daftar Menu
+[2025-01-16 13:13:41,524] INFO - Menampilkan Daftar Menu
+[2025-01-16 14:06:54,807] ERROR - Error membuat token: 'SafeConfig' object has no attribute 'create_token'
+[2025-01-16 14:06:56,610] ERROR - Error membuat token: 'SafeConfig' object has no attribute 'create_token'
+[2025-01-16 14:07:53,034] ERROR - Error membuat token: 'SafeConfig' object has no attribute 'create_token'
+[2025-01-16 14:07:54,280] ERROR - Error membuat token: 'SafeConfig' object has no attribute 'create_token'
+[2025-01-16 14:08:45,552] ERROR - Error membuat token: 'SafeConfig' object has no attribute 'create_token'
+[2025-01-16 14:08:46,867] ERROR - Error membuat token: 'SafeConfig' object has no attribute 'create_token'
+[2025-01-16 14:19:47,186] ERROR - Error membuat token: Error in create_token: 'HTTPAuthorizationCredentials' object has no attribute 'create_access_token'
+[2025-01-16 14:19:48,360] ERROR - Error membuat token: Error in create_token: 'HTTPAuthorizationCredentials' object has no attribute 'create_access_token'
+[2025-01-16 14:20:27,167] ERROR - Error membuat token: Error in create_token: 'HTTPAuthorizationCredentials' object has no attribute 'create_access_token'
+[2025-01-16 14:21:38,191] INFO - Token berhasil dibuat: eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJzdHJpbmciLCJpYXQiOjE3MzcwMTIwOTcsIm5iZiI6MTczNzAxMjA5NywianRpIjoiZTFmOGE1MzctYmUyZC00NjdjLTk3NTktNGJjNWQxNTc2ODYwIiwiZXhwIjoxNzM3MDEyOTk3LCJ0eXBlIjoiYWNjZXNzIiwiZnJlc2giOmZhbHNlfQ.nz8BQOPUQI4P_7P2iYldt7TEySsD3_q0kIJFjJkOstqjeu-mNtF8NC3DhcMblcdNZld1Nmey_EDqPVE-Fn5Kd-ZdzYAULLRL-ncca72KjoN8DawHhv78vbfPr6VReZ7_Rl2jAF3AGEele1WrXZr2H4ly3NqF1-dlnQ8ZLW4KIhQTzLCL57VqJ5oulMZfnZUIe_QZo8ThTx8kqhN_-gGrHLMzuPjeEq5b98Z3mwHRZNN4_L-ugJiYRLlqO-qE6Yrfhoc1SFlGWKEreTyHQxdYJQUg1REFhWVHPXEqJ2Bp6V13jz5chKNYbTIDE_cnlGNa7CdEJ-ihh6z6-3floa3hVOi8lfZqq7H-BJ6UFl8cVKMUVnhn6kUMArbhP6__DWzsLlZdvmYSccS4mxvXcbR3578WA6-zLYoxmm3K49vv8sh7vFWX7Os7TtEMyP-FEdkti8qK6nWXlO-T27DXhS0Q8w5EJ6IJp5gEKSLTujz4yMpRBdn9R57JLRDsqtNn0_60SUBnZZnWqfWq5ewdeNNaRb1xvCs6D8-PZm9080sPT4QhbfNhVLf_xl4OVrayy3Du7lY-G2jHvqPhjcJ4MXYbc8mv6qoIklfd1Tu_YKSq95HQnC6hrnLw3cvfzALsRuIwi6QM_OEZmg4WE5XquAOJalwUARxwLbRfD0TniDgsYp8
+[2025-01-16 16:10:13,693] INFO - User registered: jodi with Client ID: ('e23f71afbb6b7dc460838596496defb2', '4e5fb4e847dc668e365117ffeb7b37e5b3bdf734c0594c2c209d26aa7f3c548a')
+[2025-01-16 16:10:32,607] INFO - Token generated for user: jodi
+[2025-01-16 16:31:15,826] INFO - Menampilkan Daftar Menu
+[2025-01-16 16:31:16,768] INFO - Menampilkan Daftar Menu
